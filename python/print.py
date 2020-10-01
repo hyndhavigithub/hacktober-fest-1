@@ -1,1 +1,1 @@
-print("Hacktober Fest")
+print("HacktoberFest")
